@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.20.1"
+    "moment": "^2.20.1",
+    "parcel-bundler": "^1.5.0"
   },
   "devDependencies": {
     "node-sass": "^4.7.2"
